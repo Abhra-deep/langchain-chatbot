@@ -1,0 +1,10 @@
+Flask
+langchain
+pandas
+faiss-cpu
+sentence-transformers
+waitress
+
+
+Install all dependencies with:
+pip install -r requirements.txt
